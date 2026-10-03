@@ -1,5 +1,5 @@
-title: "My Jekyll Blog"
-description: "日々の学びや考えを記録するブログです。"
+title: "試行錯誤ログ"
+description: "「やってみた」「ハマった」「解決した」の記録。"
 timezone: Asia/Tokyo
 lang: ja-JP
 theme: jekyll-theme-chirpy
