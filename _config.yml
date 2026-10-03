@@ -18,6 +18,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+
 markdown: kramdown
 highlighter: rouge
 kramdown:
