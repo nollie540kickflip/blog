@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【Go言語】並行処理の勉強メモ：WaitGroup、ループ変数の落とし穴、Mutex"
-date: 2026-10-03 13:00:00 +0900
+date: 2026-09-27 22:43:00 +0900
 categories: [Go, 並行処理]
 tags: [go, goroutine, waitgroup, mutex]
 ---
