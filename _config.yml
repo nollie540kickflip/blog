@@ -4,6 +4,10 @@ timezone: Asia/Tokyo
 lang: ja-JP
 theme: jekyll-theme-chirpy
 
+# プロフィール画像（左サイドバーの一番上の丸いアイコン）
+# 画像のURLを指定します。自分の画像を使う場合は画像をリポジトリに入れてそのパスを指定します。
+avatar: "https://github.com/nollie540kickflip.png"
+
 github:
   username: nollie540kickflip
 

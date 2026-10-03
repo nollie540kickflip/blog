@@ -1,0 +1,18 @@
+# SNS等のアイコン設定（左サイドバーの一番下）
+# 表示したいもののコメントアウト（#）を外し、自分のIDなどを入力してください。
+
+- type: github
+  icon: 'fab fa-github'
+  url: 'https://github.com/nollie540kickflip'
+
+- type: twitter
+  icon: 'fa-brands fa-x-twitter'
+  url: 'https://twitter.com/your_username'
+
+- type: email
+  icon: 'fas fa-envelope'
+  url: 'mailto:your_email@example.com'
+
+# - type: youtube
+#   icon: 'fab fa-youtube'
+#   url: 'https://youtube.com/@your_channel'
