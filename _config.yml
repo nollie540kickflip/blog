@@ -1,6 +1,7 @@
 title: "試行錯誤ログ"
 description: "「やってみた」「ハマった」「解決した」の記録。"
 timezone: Asia/Tokyo
+future: true
 lang: ja-JP
 theme: jekyll-theme-chirpy
 
