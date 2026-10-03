@@ -18,4 +18,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+
 paginate: 10
